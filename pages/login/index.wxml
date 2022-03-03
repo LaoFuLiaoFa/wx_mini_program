@@ -1,0 +1,7 @@
+<button
+    type="primary"
+    plain
+    bindtap="getUserProfile"
+    >
+    登录
+</button>

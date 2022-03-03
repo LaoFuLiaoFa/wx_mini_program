@@ -1,0 +1,6 @@
+<button
+    type="primary" open-type="getUserInfo" bindgetuserinfo="handleGetUserInfo"
+    plain
+    >
+    获取授权
+</button>
